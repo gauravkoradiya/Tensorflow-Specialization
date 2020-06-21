@@ -1,2 +1,3 @@
-# Tensorflow-Specialization
- This repository Contains tesorflow in specialization in coursera.
+# Tensorflow in practice 
+This repository Contains all the contents regarding "Tesorflow in practice" specialization in coursera. One can ues this as reference.
+ 
